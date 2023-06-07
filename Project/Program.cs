@@ -15,8 +15,17 @@ namespace Project
             int S = 10 + 20;
 
             Console.WriteLine(S);
+
+
+            Console.WriteLine("additon---"+Addition(100,100));
+
             Console.ReadLine();
 
+        }
+
+        public static int Addition(int a, int b)
+        {
+            return a + b;
         }
     }
 }
