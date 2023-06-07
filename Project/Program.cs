@@ -18,7 +18,7 @@ namespace Project
 
 
             Console.WriteLine("additon---"+Addition(100,100));
-
+  Console.WriteLine("additon---"+Subtraction(100,50));
             Console.ReadLine();
 
         }
