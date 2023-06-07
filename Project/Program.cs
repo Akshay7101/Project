@@ -27,5 +27,10 @@ namespace Project
         {
             return a + b;
         }
+        
+         public static int Subtraction(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
